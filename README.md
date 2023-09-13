@@ -58,7 +58,7 @@ The methodologies and techniques from this project are being compiled for submis
 This project is open-sourced under the MIT License. However, the dataset and some results are not shared due to pending publications.
 
 ## Contributors
-[Yipeng Xu] - Main researcher and developer
-[Supervisor: Ahmad Mousa] - The idea and some of the dataset
-[Ph.D. student: Abdulhalim SAEED] - Additional contributions
+- [Yipeng Xu] - Main researcher and developer
+- [Supervisor: Ahmad Mousa] - The idea and some of the dataset
+- [Ph.D. student: Abdulhalim SAEED] - Additional contributions
 
